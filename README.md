@@ -10,6 +10,7 @@ https://rafaelfaustini.com.br/curriculum
 ## Built With
 
 * [JsPdf](https://github.com/MrRio/jsPDF) - Javascript library used to generate pdf
+* [Bootstrap](https://github.com/twbs/bootstrap) - Framework used for the layout
 
 ## Contributing
 
